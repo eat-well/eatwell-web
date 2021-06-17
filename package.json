@@ -29,7 +29,7 @@
     "clsx": "^1.1.0",
     "isomorphic-unfetch": "^3.0.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "material-ui-popup-state": "^1.5.4",
     "mongodb": "^3.3.2",
     "mongoose": "^5.7.7",
